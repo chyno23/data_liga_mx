@@ -1,0 +1,263 @@
+Fecha,Hora,Local,Visitante,Goles_local,Goles_Visitante,Tiros_Local,Tiros_Gol_Local,Tiros_Visitante,Tiros_Gol_Visitante,Posecion_Local,Posecion_Visitante,Temporada
+2022-07-02,17:00:00,Necaxa,Toluca,1,3,12,4,6,3,0.51,0.49,Apertura 2022
+2022-07-03,17:00:00,Chivas,Juarez,0,0,14,5,11,1,0.47,0.53,Apertura 2022
+2022-07-01,21:05:00,Mazatlan,Puebla,2,4,13,6,18,7,0.42,0.66,Apertura 2022
+2022-07-03,12:00:00,Pumas,Tijuana,1,1,13,4,4,1,0.6,0.4,Apertura 2022
+2022-07-03,17:00:00,Atletico,Leon,1,2,9,2,15,8,0.56,0.44,Apertura 2022
+2022-07-02,19:05:00,Tigres,Cruz Azul,2,3,21,6,6,3,0.33,0.66,Apertura 2022
+2022-07-02,21:05:00,America,Atlas,0,0,16,3,8,1,0.54,0.46,Apertura 2022
+2022-07-03,19:05:00,Santos,Monterrey,4,3,17,4,16,7,0.49,0.51,Apertura 2022
+2022-07-04,21:00:00,Pachuca,Queretaro,2,0,17,5,9,1,0.53,0.47,Apertura 2022
+2022-07-08,18:00:00,Mazatlan,Tigres,0,1,13,2,17,6,0.58,0.42,Apertura 2022
+2022-07-08,19:00:00,Tijuana,Juarez,0,2,7,3,11,3,0.4,0.6,Apertura 2022
+2022-07-08,21:05:00,Puebla,Santos,1,0,17,7,10,1,0.54,0.46,Apertura 2022
+2022-07-10,12:00:00,Toluca,Atlas,3,2,14,9,25,7,0.49,0.51,Apertura 2022
+2022-07-10,17:00:00,Queretaro,Necaxa,1,2,16,5,16,6,0.44,0.56,Apertura 2022
+2022-07-09,19:00:00,Leon,Pumas,3,3,8,4,16,6,0.45,0.55,Apertura 2022
+2022-07-09,19:05:00,Chivas,Atletico,0,1,19,4,4,1,0.64,0.36,Apertura 2022
+2022-07-09,21:00:00,Monterrey,America,3,2,19,8,13,3,0.37,0.63,Apertura 2022
+2022-07-09,21:05:00,Cruz Azul,Pachuca,1,2,7,1,18,6,0.43,0.57,Apertura 2022
+2022-07-13,21:00:00,America,Toluca,1,0,26,2,10,2,0.61,0.39,Apertura 2022
+2022-07-16,17:00:00,Atlas,Cruz Azul,3,2,13,4,18,4,0.66,0.34,Apertura 2022
+2022-07-15,19:00:00,Puebla,Leon,1,1,11,5,9,3,0.45,0.55,Apertura 2022
+2022-07-15,20:05:00,Juarez,Queretaro,1,1,13,3,9,3,0.61,0.39,Apertura 2022
+2022-07-17,12:00:00,Pumas,Necaxa,1,0,15,6,11,2,0.43,0.57,Apertura 2022
+2022-07-17,17:00:00,Atletico,Monterrey,0,1,12,1,18,4,0.37,0.63,Apertura 2022
+2022-07-16,19:05:00,Santos,Chivas,1,1,10,5,18,6,0.47,0.53,Apertura 2022
+2022-07-17,19:00:00,Tigres,Tijuana,1,0,17,3,6,2,0.56,0.44,Apertura 2022
+2022-07-18,19:00:00,Pachuca,Mazatlan,1,1,23,4,8,6,0.66,0.34,Apertura 2022
+2022-07-20,21:05:00,Chivas,Leon,0,0,12,2,12,4,0.37,0.63,Apertura 2022
+2022-07-20,21:00:00,Queretaro,Monterrey,0,3,10,5,15,6,0.53,0.47,Apertura 2022
+2022-07-23,17:00:00,Toluca,Santos,2,1,19,8,14,5,0.66,0.34,Apertura 2022
+2022-07-22,18:00:00,Mazatlan,Atletico,1,1,18,3,22,11,0.59,0.41,Apertura 2022
+2022-07-22,21:05:00,Necaxa,Juarez,1,0,7,3,18,4,0.36,0.64,Apertura 2022
+2022-07-23,18:05:00,Tijuana,America,2,0,13,3,3,1,0.37,0.63,Apertura 2022
+2022-07-23,17:05:00,Cruz Azul,Puebla,2,2,19,5,5,10,0.47,0.53,Apertura 2022
+2022-07-23,21:05:00,Tigres,Atlas,2,0,33,13,7,0,0.73,0.27,Apertura 2022
+2022-07-24,19:00:00,Pachuca,Pumas,0,0,19,4,8,3,0.63,0.37,Apertura 2022
+2022-07-26,18:00:00,Juarez,Tigres,0,1,7,2,12,3,0.59,0.41,Apertura 2022
+2022-07-26,19:00:00,Monterrey,Puebla,1,0,22,7,4,1,0.44,0.56,Apertura 2022
+2022-07-26,19:00:00,Atlas,Tijuana,1,2,18,4,15,5,0.62,0.38,Apertura 2022
+2022-07-26,21:05:00,Atletico,Cruz Azul,0,0,9,4,7,1,0.48,0.52,Apertura 2022
+2022-07-26,21:05:00,Leon,Toluca,0,1,13,2,16,6,0.4,0.6,Apertura 2022
+2022-07-27,19:00:00,Necaxa,Pachuca,2,0,9,3,15,3,0.41,0.59,Apertura 2022
+2022-07-27,19:00:00,Queretaro,Chivas,2,2,14,7,12,3,0.51,0.49,Apertura 2022
+2022-07-27,21:05:00,Pumas,Mazatlan,1,1,20,8,7,1,0.6,0.4,Apertura 2022
+2022-07-30,17:00:00,Cruz Azul,Necaxa,1,0,7,4,17,3,0.42,0.58,Apertura 2022
+2022-07-29,20:05:00,Juarez,Toluca,1,1,12,2,7,3,0.44,0.56,Apertura 2022
+2022-07-31,12:00:00,Pumas,Monterrey,1,1,15,7,7,2,0.57,0.43,Apertura 2022
+2022-07-30,19:05:00,Tijuana,Mazatlan,2,0,10,5,11,4,0.47,0.53,Apertura 2022
+2022-07-30,19:05:00,Tigres,Queretaro,2,1,14,3,11,3,0.63,0.37,Apertura 2022
+2022-07-30,21:05:00,Chivas,Pachuca,0,0,12,4,10,4,0.55,0.45,Apertura 2022
+2022-07-30,21:05:00,Puebla,Atletico,0,0,28,2,10,4,0.65,0.35,Apertura 2022
+2022-07-31,19:05:00,Santos,Atlas,1,0,10,2,17,2,0.46,0.54,Apertura 2022
+2022-07-31,21:05:00,Leon,America,3,2,12,6,11,3,0.44,0.56,Apertura 2022
+2022-08-02,21:00:00,Toluca,Puebla,1,1,20,7,17,5,0.62,0.38,Apertura 2022
+2022-08-03,18:00:00,Juarez,Atletico,1,1,17,5,3,1,0.68,0.32,Apertura 2022
+2022-08-04,21:00:00,Atlas,Queretaro,3,1,13,4,16,5,0.4,0.6,Apertura 2022
+2022-08-05,20:05:00,Mazatlan,Chivas,2,1,16,4,12,4,0.5,0.5,Apertura 2022
+2022-08-05,12:00:00,Toluca,Tijuana,3,1,27,10,10,8,0.62,0.38,Apertura 2022
+2022-08-07,16:00:00,Atletico,Necaxa,1,2,12,3,12,4,0.58,0.42,Apertura 2022
+2022-08-07,18:05:00,Pachuca,Tigres,2,0,19,6,9,3,0.58,0.42,Apertura 2022
+2022-08-06,19:05:00,Monterrey,Leon,5,1,15,9,13,6,0.29,0.71,Apertura 2022
+2022-08-06,21:00:00,Santos,Cruz Azul,4,0,17,9,11,1,0.51,0.49,Apertura 2022
+2022-08-07,20:05:00,America,Juarez,2,1,16,6,13,4,0.48,0.52,Apertura 2022
+2022-08-11,21:00:00,Queretaro,Atletico,1,1,16,6,8,2,0.52,0.48,Apertura 2022
+2022-08-13,17:00:00,Leon,Mazatlan,0,3,12,1,8,5,0.7,0.3,Apertura 2022
+2022-08-12,19:05:00,Tijuana,Puebla,3,3,12,4,13,4,0.46,0.54,Apertura 2022
+2022-08-12,21:00:00,Necaxa,Monterrey,1,2,14,4,17,6,0.52,0.48,Apertura 2022
+2022-08-14,17:00:00,Cruz Azul,Toluca,2,3,14,5,15,7,0.36,0.64,Apertura 2022
+2022-08-13,19:05:00,Pumas,America,0,3,10,2,19,9,0.47,0.53,Apertura 2022
+2022-08-13,21:05:00,Chivas,Atlas,1,1,23,6,8,4,0.57,0.43,Apertura 2022
+2022-08-14,19:05:00,Tigres,Santos,2,0,19,7,21,6,0.51,0.49,Apertura 2022
+2022-08-16,18:00:00,Mazatlan,Queretaro,1,1,7,6,15,7,0.56,0.44,Apertura 2022
+2022-08-16,19:00:00,Atlas,Juarez,0,1,8,3,12,2,0.55,0.45,Apertura 2022
+2022-08-16,21:05:00,Puebla,Necaxa,2,2,15,6,16,4,0.52,0.48,Apertura 2022
+2022-08-17,19:00:00,Toluca,Monterrey,1,1,5,2,15,4,0.63,0.37,Apertura 2022
+2022-08-17,21:05:00,Pachuca,America,0,3,10,4,14,6,0.51,0.49,Apertura 2022
+2022-08-17,21:05:00,Cruz Azul,Tijuana,1,2,16,3,7,2,0.52,0.48,Apertura 2022
+2022-08-18,19:05:00,Santos,Leon,2,1,19,6,5,1,0.58,0.42,Apertura 2022
+2022-08-18,21:05:00,Atletico,Pumas,2,0,10,4,16,6,0.48,0.52,Apertura 2022
+2022-08-20,17:00:00,Queretaro,Tijuana,2,0,10,4,10,1,0.38,0.62,Apertura 2022
+2022-08-19,19:00:00,Necaxa,Chivas,0,4,15,1,13,6,0.57,0.43,Apertura 2022
+2022-08-21,12:00:00,Pumas,Santos,1,5,19,5,15,9,0.56,0.44,Apertura 2022
+2022-08-21,17:00:00,Atletico,Toluca,1,0,15,4,14,4,0.37,0.63,Apertura 2022
+2022-08-20,19:05:00,Atlas,Puebla,1,1,13,5,10,4,0.54,0.46,Apertura 2022
+2022-08-20,19:05:00,Monterrey,Tigres,0,0,13,1,11,3,0.48,0.52,Apertura 2022
+2022-08-20,20:05:00,Juarez,Mazatlan,1,1,12,2,12,1,0.42,0.58,Apertura 2022
+2022-08-20,21:05:00,America,Cruz Azul,7,0,18,7,9,1,0.59,0.41,Apertura 2022
+2022-08-21,19:05:00,Pachuca,Leon,1,0,17,6,5,3,0.57,0.43,Apertura 2022
+2022-08-23,19:05:00,Chivas,Monterrey,1,0,11,3,14,7,0.47,0.53,Apertura 2022
+2022-08-23,21:05:00,Queretaro,America,0,1,13,2,15,4,0.43,0.57,Apertura 2022
+2022-08-24,21:05:00,Pumas,Tigres,1,1,7,3,12,3,0.32,0.68,Apertura 2022
+2022-08-25,19:05:00,Pachuca,Atlas,3,1,18,8,3,2,0.57,0.43,Apertura 2022
+2022-08-25,19:05:00,Tijuana,Santos,0,2,24,4,21,7,0.54,0.46,Apertura 2022
+2022-08-27,17:00:00,Cruz Azul,Queretaro,2,1,8,4,11,1,0.35,0.65,Apertura 2022
+2022-08-26,19:00:00,Puebla,Juarez,2,2,22,6,7,2,0.59,0.41,Apertura 2022
+2022-08-26,20:05:00,Mazatlan,America,1,3,7,2,17,4,0.43,0.57,Apertura 2022
+2022-08-28,12:00:00,Toluca,Pachuca,1,4,11,4,23,12,0.57,0.43,Apertura 2022
+2022-08-27,19:05:00,Tigres,Necaxa,0,0,17,2,9,1,0.6,0.4,Apertura 2022
+2022-08-27,21:05:00,Chivas,Pumas,3,1,12,6,4,13,0.5,0.5,Apertura 2022
+2022-08-28,19:00:00,Leon,Atlas,4,2,15,5,5,1,0.47,0.53,Apertura 2022
+2022-08-28,19:05:00,Tijuana,Monterrey,0,3,13,5,18,5,0.36,0.64,Apertura 2022
+2022-08-28,19:05:00,Santos,Atletico,4,1,22,7,7,4,0.48,0.52,Apertura 2022
+2022-09-01,19:00:00,Atletico,Tijuana,0,0,6,1,4,14,0.44,0.56,Apertura 2022
+2022-09-01,21:05:00,Queretaro,Puebla,1,1,17,6,15,7,0.42,0.58,Apertura 2022
+2022-09-03,17:05:00,Pachuca,Santos,2,0,24,6,6,1,0.49,0.51,Apertura 2022
+2022-09-02,19:00:00,Necaxa,Leon,3,2,9,3,26,8,0.42,0.58,Apertura 2022
+2022-09-02,20:05:00,Juarez,Cruz Azul,2,2,10,4,9,4,0.54,0.46,Apertura 2022
+2022-09-04,17:30:00,Toluca,Chivas,0,0,10,3,11,5,0.65,0.35,Apertura 2022
+2022-09-03,19:05:00,Atlas,Pumas,0,0,5,0,17,4,0.56,0.44,Apertura 2022
+2022-09-03,19:05:00,Monterrey,Mazatlan,0,0,19,3,9,0,0.56,0.44,Apertura 2022
+2022-09-03,21:05:00,America,Tigres,2,1,17,9,4,16,0.52,0.48,Apertura 2022
+2022-09-06,19:00:00,Leon,Juarez,1,0,16,5,8,2,0.53,0.47,Apertura 2022
+2022-09-06,19:05:00,Santos,Necaxa,3,1,20,6,22,7,0.49,0.51,Apertura 2022
+2022-09-06,21:05:00,America,Atletico,3,0,19,6,9,3,0.6,0.4,Apertura 2022
+2022-09-06,21:05:00,Monterrey,Cruz Azul,3,2,17,11,3,2,0.51,0.49,Apertura 2022
+2022-09-07,19:00:00,Puebla,Pachuca,2,2,8,3,24,11,0.62,0.61,Apertura 2022
+2022-09-07,19:00:00,Tigres,Toluca,3,1,20,7,8,2,0.44,0.56,Apertura 2022
+2022-09-07,19:05:00,Tijuana,Chivas,1,2,14,3,3,2,0.52,0.48,Apertura 2022
+2022-09-07,20:00:00,Mazatlan,Atlas,1,0,14,6,25,5,0.43,0.57,Apertura 2022
+2022-09-07,21:05:00,Pumas,Queretaro,4,1,18,6,3,9,0.51,0.49,Apertura 2022
+2022-09-10,17:00:00,Queretaro,Santos,3,3,21,9,11,3,0.47,0.53,Apertura 2022
+2022-09-09,20:05:00,Juarez,Monterrey,0,1,11,2,14,5,0.49,0.51,Apertura 2022
+2022-09-11,16:00:00,Cruz Azul,Mazatlan,2,0,17,3,3,0,0.58,0.42,Apertura 2022
+2022-09-11,18:05:00,Atlas,Atletico,1,3,15,3,10,4,0.52,0.48,Apertura 2022
+2022-09-10,19:00:00,Necaxa,America,1,2,14,6,12,7,0.38,0.62,Apertura 2022
+2022-09-10,19:05:00,Tigres,Leon,0,1,14,3,11,3,0.55,0.45,Apertura 2022
+2022-09-10,21:05:00,Chivas,Puebla,1,0,15,4,8,2,0.53,0.47,Apertura 2022
+2022-09-10,21:05:00,Toluca,Pumas,2,2,13,5,19,8,0.61,0.39,Apertura 2022
+2022-09-11,20:05:00,Pachuca,Tijuana,6,1,19,7,12,3,0.56,0.44,Apertura 2022
+2022-09-13,21:05:00,Chivas,Tigres,1,4,23,8,16,11,0.58,0.42,Apertura 2022
+2022-09-14,20:05:00,Juarez,Pachuca,2,1,7,3,22,10,0.35,0.65,Apertura 2022
+2022-09-14,21:05:00,America,Santos,3,3,29,8,13,8,0.71,0.29,Apertura 2022
+2022-09-15,19:00:00,Cruz Azul,Leon,2,1,16,5,7,1,0.56,0.44,Apertura 2022
+2022-09-16,19:00:00,Puebla,Tigres,2,1,11,6,13,4,0.37,0.63,Apertura 2022
+2022-09-16,20:00:00,Mazatlan,Toluca,1,1,19,6,17,9,0.4,0.6,Apertura 2022
+2022-09-18,17:00:00,Pumas,Cruz Azul,1,2,22,11,11,5,0.54,0.46,Apertura 2022
+2022-09-17,19:05:00,Monterrey,Atlas,2,0,16,4,8,5,0.53,0.47,Apertura 2022
+2022-09-17,20:00:00,America,Chivas,2,1,10,4,17,3,0.46,0.54,Apertura 2022
+2022-09-18,19:05:00,Santos,Juarez,2,0,18,4,12,1,0.46,0.54,Apertura 2022
+2022-09-18,19:05:00,Leon,Queretaro,3,1,12,4,13,4,0.58,0.42,Apertura 2022
+2022-09-18,19:05:00,Tijuana,Necaxa,1,1,28,7,13,6,0.54,0.46,Apertura 2022
+2022-09-18,21:00:00,Atletico,Pachuca,1,2,8,1,23,10,0.39,0.61,Apertura 2022
+2022-09-30,19:00:00,Necaxa,Mazatlan,2,2,18,6,12,4,0.59,0.41,Apertura 2022
+2022-09-23,20:00:00,Puebla,Pumas,2,1,7,2,21,4,0.42,0.58,Apertura 2022
+2022-09-01,17:05:00,Atletico,Tigres,0,3,9,4,17,11,0.41,0.59,Apertura 2022
+2022-10-01,19:00:00,Monterrey,Pachuca,0,0,12,4,12,5,0.43,0.57,Apertura 2022
+2022-09-30,19:00:00,Puebla,America,1,2,11,3,9,3,0.55,0.45,Apertura 2022
+2022-09-30,20:00:00,Juarez,Pumas,3,1,10,5,26,8,0.44,0.56,Apertura 2022
+2022-10-02,12:00:00,Toluca,Queretaro,4,1,11,4,14,2,0.53,0.47,Apertura 2022
+2022-10-02,18:05:00,Santos,Mazatlan,3,0,12,5,12,2,0.55,0.45,Apertura 2022
+2022-10-01,19:05:00,Atlas,Necaxa,1,0,11,2,14,2,0.45,0.55,Apertura 2022
+2022-10-01,21:05:00,Cruz Azul,Chivas,2,1,12,4,3,14,0.52,0.48,Apertura 2022
+2022-10-02,20:00:00,Leon,Tijuana,2,2,17,6,6,2,0.57,0.43,Apertura 2022
+2022-10-09,12:00:00,Toluca,Juarez,3,0,9,5,18,5,0.44,0.56,Apertura 2022
+2022-10-09,16:30:00,Puebla,Chivas,1,1,14,2,22,7,0.51,0.49,Apertura 2022
+2023-01-07,17:00:00,America,Queretaro,0,0,26,6,7,2,0.66,0.34,Clausura 2023
+2023-01-06,19:00:00,Necaxa,Atletico,2,3,12,6,14,6,0.55,0.45,Clausura 2023
+2023-01-08,12:00:00,Pumas,Juarez,2,1,19,4,6,3,0.68,0.32,Clausura 2023
+2023-01-07,21:10:00,Monterrey,Chivas,0,1,23,8,6,2,0.63,0.37,Clausura 2023
+2023-01-08,19:00:00,Santos,Tigres,0,3,16,7,17,6,0.57,0.43,Clausura 2023
+2021-01-08,19:10:00,Tijuana,Cruz Azul,1,1,15,8,9,3,0.41,0.59,Clausura 2023
+2023-01-09,21:10:00,Pachuca,Puebla,5,1,21,9,7,2,0.62,0.38,Clausura 2023
+2023-01-12,21:05:00,Atlas,Mazatlan,2,1,21,9,11,3,0.54,0.46,Clausura 2023
+2023-01-14,17:00:00,Cruz Azul,Monterrey,2,3,13,5,17,8,0.43,0.57,Clausura 2023
+2023-01-13,19:05:00,Atletico,Chivas,0,0,4,1,13,5,0.31,0.69,Clausura 2023
+2023-01-13,21:05:00,Puebla,Queretaro,2,0,12,5,11,5,0.59,0.41,Clausura 2023
+2023-01-14,18:05:00,Juarez,Tijuana,3,0,12,3,15,3,0.47,0.53,Clausura 2023
+2023-01-14,19:05:00,Toluca,America,2,2,18,12,17,3,0.49,0.51,Clausura 2023
+2023-01-14,21:05:00,Santos,Pumas,3,0,26,18,23,8,0.39,0.61,Clausura 2023
+2023-01-15,19:05:00,Tigres,Pachuca,4,1,17,7,13,3,0.49,0.51,Clausura 2023
+2023-01-16,21:05:00,Leon,Necaxa,2,1,15,2,4,2,0.56,0.41,Clausura 2023
+2023-01-21,17:06:00,Monterrey,Atletico,3,1,15,3,3,9,0.46,0.54,Clausura 2023
+2023-01-20,19:10:00,Tijuana,Tigres,1,1,8,2,11,5,0.39,0.61,Clausura 2023
+2023-01-20,19:10:00,Mazatlan,Santos,1,2,16,5,23,12,0.53,0.47,Clausura 2023
+2023-01-22,12:00:00,Pumas,Leon,4,1,9,5,12,2,0.48,0.52,Clausura 2023
+2023-01-22,17:00:00,Queretaro,Atlas,3,3,13,4,15,7,0.49,0.51,Clausura 2023
+2023-01-21,19:10:00,America,Puebla,2,2,19,6,8,5,0.65,0.35,Clausura 2023
+2023-01-21,21:10:00,Chivas,Toluca,1,2,13,2,13,4,0.46,0.54,Clausura 2023
+2023-01-21,21:10:00,Necaxa,Cruz Azul,1,0,9,3,17,3,0.3,0.7,Clausura 2023
+2023-01-22,19:10:00,Pachuca,Juarez,4,1,12,4,12,4,0.47,0.53,Clausura 2023
+2023-01-26,21:05:00,Atlas,Santos,2,2,13,4,11,2,0.72,0.28,Clausura 2023
+2023-01-27,19:05:00,Tijuana,Pumas,0,0,22,6,4,2,0.66,0.34,Clausura 2023
+2023-01-27,19:05:00,Puebla,Monterrey,1,2,16,8,19,3,0.53,0.47,Clausura 2023
+2023-01-29,12:00:00,Toluca,Leon,0,0,31,9,7,1,0.74,0.26,Clausura 2023
+2023-01-28,19:05:00,Tigres,Atletico,0,0,18,3,2,0,0.87,0.76,Clausura 2023
+2023-01-28,20:05:00,Juarez,Chivas,1,2,27,5,6,1,0.65,0.35,Clausura 2023
+2023-01-28,21:05:00,America,Mazatlan,6,0,16,8,10,2,0.61,0.39,Clausura 2023
+2023-01-29,19:00:00,Pachuca,Necaxa,2,1,24,11,8,2,0.58,0.42,Clausura 2023
+2023-02-01,20:05:00,Atlas,Toluca,0,0,11,2,15,4,0.41,0.59,Clausura 2023
+2023-02-02,19:00:00,Atletico,Puebla,2,0,15,4,14,4,0.44,0.56,Clausura 2023
+2023-02-04,17:00:00,Leon,Pachuca,0,1,18,4,11,2,0.54,0.46,Clausura 2023
+2023-02-03,19:00:00,Necaxa,Tijuana,1,1,14,6,10,2,0.5,0.5,Clausura 2023
+2023-01-03,20:05:00,Mazatlan,Juarez,2,3,23,8,10,4,0.53,0.47,Clausura 2023
+2023-02-05,12:00:00,Pumas,Atlas,2,2,11,4,11,2,0.39,0.61,Clausura 2023
+2023-02-05,17:05:00,Chivas,Queretaro,1,1,18,4,8,1,0.58,0.42,Clausura 2023
+2023-02-04,19:05:00,Cruz Azul,Tigres,0,1,17,3,10,3,0.49,0.51,Clausura 2023
+2023-02-04,21:05:00,Santos,America,2,2,14,6,24,7,0.38,0.62,Clausura 2023
+2023-02-05,19:10:00,Monterrey,Toluca,2,1,12,5,13,7,0.34,0.66,Clausura 2023
+2023-02-09,19:05:00,Queretaro,Leon,0,3,12,3,15,5,0.54,0.46,Clausura 2023
+2023-02-09,21:05:00,Atlas,Monterrey,0,2,16,4,16,6,0.56,0.44,Clausura 2023
+2023-02-11,17:00:00,America,Necaxa,2,1,12,4,5,1,0.54,0.46,Clausura 2023
+2023-02-10,19:00:00,Puebla,Mazatlan,3,1,14,4,17,3,0.53,0.47,Clausura 2023
+2023-02-10,19:10:00,Tijuana,Atletico,1,0,22,5,7,1,0.62,0.38,Clausura 2023
+2023-02-12,12:00:00,Toluca,Cruz Azul,3,1,11,6,13,5,0.52,0.48,Clausura 2023
+2023-02-11,18:05:00,Juarez,Santos,3,1,21,8,13,3,0.47,0.53,Clausura 2023
+2023-02-11,19:05:00,Tigres,Pumas,4,2,18,4,13,7,0.58,0.42,Clausura 2023
+2023-02-11,21:05:00,Pachuca,Chivas,1,1,13,4,17,9,0.52,0.48,Clausura 2023
+2023-02-14,19:05:00,Leon,Puebla,2,0,34,12,3,0,0.61,0.39,Clausura 2023
+2023-02-14,19:05:00,Tigres,Juarez,0,0,15,4,12,4,0.56,0.44,Clausura 2023
+2023-02-14,21:05:00,Pachuca,America,1,3,13,4,19,9,0.48,0.52,Clausura 2023
+2023-02-15,19:05:00,Chivas,Tijuana,2,1,11,0,13,3,0.57,0.43,Clausura 2023
+2023-02-15,19:05:00,Monterrey,Queretaro,2,0,15,5,9,0,0.52,0.48,Clausura 2023
+2023-02-15,21:05:00,Necaxa,Pumas,3,1,11,3,19,8,0.34,0.66,Clausura 2023
+2023-02-16,20:00:00,Mazatlan,Pachuca,2,3,12,5,17,5,0.46,0.54,Clausura 2023
+2023-02-18,17:00:00,Atletico,Santos,1,1,15,4,26,5,0.38,0.62,Clausura 2023
+2023-02-18,17:06:00,Monterrey,Necaxa,2,1,15,9,3,1,0.58,0.42,Clausura 2023
+2023-02-17,18:06:00,Juarez,Leon,0,0,5,0,6,1,0.53,0.47,Clausura 2023
+2023-02-17,21:05:00,Puebla,Cruz Azul,1,3,19,5,10,3,0.57,0.43,Clausura 2023
+2023-02-19,17:00:00,Queretaro,Mazatlan,1,1,16,6,8,3,0.44,0.56,Clausura 2023
+2023-02-18,19:05:00,Atlas,Tigres,0,1,11,2,9,3,0.44,0.56,Clausura 2023
+2023-02-18,21:05:00,Pumas,Chivas,1,2,27,5,10,3,0.59,0.41,Clausura 2023
+2023-02-19,19:05:00,America,Tijuana,2,1,18,7,14,4,0.59,0.41,Clausura 2023
+2023-02-19,21:05:00,Pachuca,Toluca,1,2,19,7,11,6,0.5,0.5,Clausura 2023
+2023-02-22,20:05:00,Cruz Azul,Atlas,1,0,14,3,9,3,0.5,0.5,Clausura 2023
+2023-02-23,20:00:00,Santos,Toluca,0,5,18,4,14,8,0.46,0.54,Clausura 2023
+2023-02-25,17:00:00,Cruz Azul,Juarez,1,0,10,6,11,1,0.37,0.63,Clausura 2023
+2023-02-24,19:05:00,Necaxa,Queretaro,1,1,16,3,16,3,0.42,0.58,Clausura 2023
+2023-02-24,19:05:00,Mazatlan,Pumas,1,2,13,2,24,8,0.48,0.52,Clausura 2023
+2023-02-26,12:00:00,Toluca,Atletico,2,0,15,4,17,6,0.57,0.43,Clausura 2023
+2023-02-25,19:05:00,Tigres,Chivas,1,2,19,1,8,5,0.66,0.34,Clausura 2023
+2023-01-25,21:05:00,Atlas,America,2,2,8,4,18,5,0.46,0.54,Clausura 2023
+2023-02-26,19:05:00,Santos,Puebla,3,2,18,7,10,2,0.43,0.57,Clausura 2023
+2023-02-26,19:05:00,Tijuana,Pachuca,2,0,9,5,21,5,0.42,0.58,Clausura 2023
+2023-02-27,21:10:00,Leon,Monterrey,1,1,9,3,11,4,0.45,0.55,Clausura 2023
+2023-03-04,17:00:00,Leon,Atletico,2,0,20,10,9,2,0.59,0.41,Clausura 2023
+2023-03-03,18:05:00,Mazatlan,Cruz Azul,3,1,15,7,6,3,0.5,0.5,Clausura 2023
+2023-03-03,19:05:00,Necaxa,Tigres,0,1,17,2,9,4,0.48,0.52,Clausura 2023
+2023-03-03,21:15:00,Tijuana,Atlas,1,1,10,2,14,6,0.49,0.51,Clausura 2023
+2023-03-05,12:00:00,Pumas,Puebla,2,4,15,5,20,9,0.41,0.59,Clausura 2023
+2023-03-04,19:05:00,America,Pachuca,0,3,21,5,13,6,0.62,0.38,Clausura 2023
+2023-03-04,19:10:00,Monterrey,Juarez,3,0,17,7,8,2,0.48,0.52,Clausura 2023
+2023-03-04,21:05:00,Chivas,Santos,2,0,18,7,12,2,0.42,0.58,Clausura 2023
+2023-03-05,19:05:00,Queretaro,Toluca,1,0,7,5,7,22,0.25,0.75,Clausura 2023
+2023-03-11,17:00:00,Atlas,Leon,0,1,21,4,19,5,0.56,0.44,Clausura 2023
+2023-03-10,19:05:00,Atletico,Queretaro,2,0,17,6,7,1,0.56,0.54,Clausura 2023
+2023-03-10,21:05:00,Puebla,Chivas,1,0,8,2,19,2,0.4,0.6,Clausura 2023
+2023-03-12,12:00:00,Toluca,Mazatlan,4,1,25,11,6,1,0.69,0.31,Clausura 2023
+2023-03-11,19:05:00,Cruz Azul,Pumas,1,0,,,,,,,Clausura 2023
+2023-03-11,21:10:00,Tigres,America,0,2,,,,,,,Clausura 2023
+2023-03-12,19:05:00,Santos,Tijuana,3,2,,,,,,,Clausura 2023
+2023-03-12,19:05:00,Pachuca,Monterrey,1,2,,,,,,,Clausura 2023
+2023-03-12,21:15:00,Juarez,Necaxa,1,1,,,,,,,Clausura 2023
+2021-01-08,,Cruz Azul,Atletico,1,0,,,,,,,
+,,Puebla,Atlas,0,4,,,,,,,
+,,Mazatlan,Necaxa,0,1,,,,,,,
+,,Tijuana,Toluca,3,3,,,,,,,
+,,Pumas,Pachuca,0,2,,,,,,,
+,,Tigres,Monterrey,0,1,,,,,,,
+,,Chivas,America,2,4,,,,,,,
+,,Queretaro,Juarez,2,2,,,,,,,
+,,Leon,Santos,4,1,,,,,,,
+,,Mazatlan,Leon,1,2,,,,,,,
